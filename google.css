@@ -1,0 +1,171 @@
+@charset "utf-8";
+body {
+	margin:0;
+	padding:0;
+	width:100%;
+	font-family:arial;
+	font-size:small;
+}
+.main {
+	width:100%;
+}
+#test {
+	width: 100%;
+}
+.menu {
+	width: 100%;
+	height: 50px;
+	position: auto;
+}
+
+.menu ul {
+	margin-right: 38px;
+	float: right;
+	margin-top: 1px;
+}
+.menu ul li {
+	list-style-type: none;
+	display: inline;
+	padding-top: 7px;
+	padding-right: 7px;
+	padding-left: 7px;
+	padding-bottom: 7px;
+	margin-top: 5px;
+}
+#google {
+	display: block;
+	margin:auto;
+	margin-top: 150px;
+	
+}
+#google:hover {
+	opacity:.9;
+}
+.logo {
+	margin:auto;
+	width:100%;
+}
+
+#dingo {
+	display: block;
+	margin-top: 6px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding:10px;
+}
+.left-button {
+	display: inline-block;
+	width: 150px;
+	margin-top: 6px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding: 10px;
+	clear: both;
+	text-align: center;
+	border:1px solid #f2f2f2;
+}
+.right-button {
+	display: inline-block;
+	width: 150px;
+	margin-top: 6px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding: 10px;
+	text-align: center;
+	border:1px solid #f2f2f2;
+}
+.buttons {
+	display: block;
+	width: 100%;
+	margin-top:20px;
+	text-align: center;
+}
+#a {
+	display: inline;
+	margin: auto;
+	width:40%;
+	
+}
+#b {
+	display: inline;
+	margin: auto;
+	width:40%;
+}
+#wrapper {
+	margin: auto;
+	display: inline;
+}
+#square {
+	opacity:.55;
+	display: inline-block;
+	vertical-align: -5px;
+	height: 11px;
+	width: 30px;
+	background-position: -132px -38px;
+	background-image: url(i1_1967ca6a.png)
+	
+}
+#square:hover {
+	opacity:1;
+}
+.footer {
+	position:absolute;
+	width: 100%;
+	background-color: #f2f2f2;
+	bottom:0px;
+	}
+#l-foot {
+	float:left;
+	
+}
+#r-foot {
+	float:right;
+	
+}
+.footer ul li {
+	list-style-type: none;
+	display: inline;
+	margin-right:30px;
+	position:relative;
+}
+a {
+	color:black;
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}.opacity {
+	opacity:.55;
+}
+.opacity:hover {
+	color:green;
+	font-size:60px;
+}
+#next {
+	opacity: .99;
+	display: inline-block;
+	vertical-align: -5px;
+	height: 5px;
+	width: 5px;
+	background-position: -194.7px -90px;
+	background-image: url(i1_1967ca6a.png);
+	background-color: rgba(0,0,0,.55);
+	border-radius: 50%;
+	margin-left: -2px;
+}
+#next:hover {
+	background-color:black;
+}
+#next2 {
+	opacity: .99;
+	display: inline-block;
+	vertical-align: -16px;
+	height: 32px;
+	width: 30px;
+	background-position: 73.3px -7px;
+	background-image: url(google.jpg)
+}
+	
