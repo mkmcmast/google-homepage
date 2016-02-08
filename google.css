@@ -191,6 +191,7 @@ a:hover {
 .menu ul {
 	float:none;
 	text-align:center;
+	margin-left:-10px;
 }
 #l-foot {
 	float:none;
