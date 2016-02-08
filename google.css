@@ -115,6 +115,7 @@ body {
 	position:absolute;
 	width: 100%;
 	background-color: #f2f2f2;
+	border-top:1px solid lightgray;
 	bottom:0px;
 	}
 #l-foot {
@@ -142,7 +143,6 @@ a:hover {
 }
 .opacity:hover {
 	color:green;
-	font-size:60px;
 }
 #next {
 	opacity: .99;
@@ -172,13 +172,12 @@ a:hover {
 
 @media (max-width:386px){
 #google {
-	margin-top:20%;
+	margin-top:75px;
 }
 #dingo {
 	width:90%;
 }
 .menu {
-	text-align:center;
 }
 #wrapper {
 	width:90%;
@@ -190,7 +189,19 @@ a:hover {
 	width:133px;
 }
 .menu ul {
-	margin:auto;
-	float:left;
+	float:none;
+	text-align:center;
+}
+#l-foot {
+	float:none;
+	
+	
+}
+#r-foot {
+	float:none;
+	
+}
+.footer ul {
+	text-align:center;
 }
 }
