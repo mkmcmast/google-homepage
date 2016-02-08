@@ -169,3 +169,28 @@ a:hover {
 	background-image: url(google.jpg)
 }
 	
+
+@media (max-width:320px){
+#google {
+	margin-top:80px;
+}
+#dingo {
+	width:90%;
+}
+.menu {
+	text-align:center;
+}
+#wrapper {
+	width:90%;
+}
+.right-button {
+	width:133px;
+}
+.left-button {
+	width:133px;
+}
+.footer ul  {
+	font-family: cursive;
+	
+}
+}
