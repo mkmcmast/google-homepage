@@ -170,7 +170,7 @@ a:hover {
 }
 	
 
-@media (max-width:375px){
+@media (max-width:386px){
 #google {
 	margin-top:80px;
 }
@@ -189,7 +189,8 @@ a:hover {
 .left-button {
 	width:133px;
 }
-.footer ul  {
-	
+.menu ul {
+	margin:auto;
+	float:left;
 }
 }
