@@ -99,13 +99,14 @@ body {
 	display: inline;
 }
 #square {
-	opacity:.55;
+	opacity: .55;
 	display: inline-block;
 	vertical-align: -5px;
 	height: 11px;
-	width: 30px;
+	width: 11px;
 	background-position: -132px -38px;
-	background-image: url(i1_1967ca6a.png)
+	background-image: url(i1_1967ca6a.png);
+	margin-right: 13px;
 	
 }
 #square:hover {
